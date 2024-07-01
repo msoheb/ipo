@@ -6,6 +6,6 @@
 - [x] - Add Tailwind & Font
 - [x] - Components - Folder Structure
 - [x] - Routing
-- [ ] - Completing components
-- [ ] - Clean Up
+- [x] - Completing components
+- [x] - Clean Up
 - [ ] - Deployment

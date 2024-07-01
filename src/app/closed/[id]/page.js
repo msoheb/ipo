@@ -1,3 +1,4 @@
+import IpoDetails from "@/components/ipo-details";
 import data from "@/data/data.json";
 
 export default function Page({ params: { id } }) {
@@ -6,9 +7,8 @@ export default function Page({ params: { id } }) {
   );
 
   return (
-    <>
-      <h1>{details.name}</h1>
-      <h3>{details.id}</h3>
-    </>
+    <main className="container mx-auto max-w-screen-lg">
+      <IpoDetails details={details} />
+    </main>
   );
 }

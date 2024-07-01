@@ -5,7 +5,7 @@
         "id": 1,
         "name": "Nephro Care IPO",
         "company": "Nephro Care India Ltd",
-        "image": "../assets/nepho.svg",
+        "image": "/assets/nepho.svg",
         "details": {
           "biddingDates": "28 Jun '24 - 2 Jul '24",
           "minInvestment": "136000",
@@ -24,7 +24,7 @@
         "id": 2,
         "name": "Emcure Pharma IPO",
         "company": "Emcure Pharmaceuticals Ltd",
-        "image": "../assets/emcure.webp",
+        "image": "/assets/emcure.webp",
         "details": {
           "biddingDates": "29 Jun '24 - 6 Jul '24",
           "minInvestment": "13400",
@@ -43,7 +43,7 @@
         "id": 3,
         "name": "Bansal Wire Inds IPO",
         "company": "Bansal Wire Industries Ltd",
-        "image": "../assets/bansal.svg",
+        "image": "/assets/bansal.svg",
         "details": {
           "biddingDates": "30 Jun '24 - 4 Jul '24",
           "minInvestment": "14094",
@@ -64,7 +64,7 @@
         "id": 1,
         "name": "Akiko Global IPO",
         "company": "Akiko Global Services Ltd",
-        "image": "../assets/akiko.svg",
+        "image": "/assets/akiko.svg",
         "details": {
           "biddingDates": "25 Jun '24 - 27 Jun '24",
           "minInvestment": "116800",
@@ -83,7 +83,7 @@
         "id": 2,
         "name": "Divine Power IPO",
         "company": "Divine Power Energy Ltd",
-        "image": "../assets/divine.svg",
+        "image": "/assets/divine.svg",
         "details": {
           "biddingDates": "25 Jun '24 - 27 Jun '24",
           "minInvestment": "108000",
@@ -102,7 +102,7 @@
         "id": 3,
         "name": "Petro Carbon IPO",
         "company": "Petro Carbon & Chemicals Ltd",
-        "image": "../assets/petro.svg",
+        "image": "/assets/petro.svg",
         "details": {
           "biddingDates": "25 Jun '24 - 27 Jun '24",
           "minInvestment": "129600",
@@ -123,10 +123,10 @@
         "id": 1,
         "name": "Ambey Laboratories IPO",
         "company": "Ambey Laboratories Ltd",
-        "image": "../assets/ambey.svg",
+        "image": "/assets/ambey.svg",
         "details": {
           "biddingDates": "4 Jul '24 - 8 Jul '24",
-          "minInvestment": "130000",
+          "minInvestment": "₹1,36,000",
           "lotSizes": 2000,
           "priceRange": "₹65 - ₹68",
           "issueSize": "44.16Cr"
@@ -142,7 +142,7 @@
         "id": 2,
         "name": "FabIndia IPO",
         "company": "FabIndia Ltd.",
-        "image": "../assets/fabindia.webp",
+        "image": "/assets/fabindia.webp",
         "details": {
           "biddingDates": "To be announced",
           "minInvestment": "--",
@@ -161,7 +161,7 @@
         "id": 3,
         "name": "Ola Electric IPO",
         "company": "OLA Electric",
-        "image": "../assets/ola.webp",
+        "image": "/assets/ola.webp",
         "details": {
           "biddingDates": "To be announced",
           "minInvestment": "--",
