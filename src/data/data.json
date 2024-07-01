@@ -1,0 +1,181 @@
+{
+  "categories": {
+    "openIpo": [
+      {
+        "id": 1,
+        "name": "Nephro Care IPO",
+        "company": "Nephro Care India Ltd",
+        "image": "../assets/nepho.svg",
+        "details": {
+          "biddingDates": "28 Jun '24 - 2 Jul '24",
+          "minInvestment": "136000",
+          "lotSizes": 1600,
+          "priceRange": "₹85 - ₹90",
+          "issueSize": "41.26Cr"
+        },
+        "about": {
+          "description": "Nephro Care India, founded in 2014 in Kolkata, offers medical services for renal patients. It is a treatment centre for clinical and lifestyle solutions for renal insufficiency. The treatment framework covers lifestyle, physiological, and spiritual wellness. The clinics use advanced technologies and diagnostic instruments. Currently, Nephro Care serves approximately 900 chronic kidney disease (CKD) patients every month. The team consists of about five permanent doctors, 10 visiting consultants, and 70 experienced paramedical professionals at the flagship clinic at Salt Lake.",
+          "foundedIn": 2014,
+          "managingDirector": "Dr. Pratim Sengupta",
+          "parentOrganisation": "Nephro Care India Ltd"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Emcure Pharma IPO",
+        "company": "Emcure Pharmaceuticals Ltd",
+        "image": "../assets/emcure.webp",
+        "details": {
+          "biddingDates": "29 Jun '24 - 6 Jul '24",
+          "minInvestment": "13400",
+          "lotSizes": 14,
+          "priceRange": "₹960 - ₹1,008",
+          "issueSize": "1952.03Cr"
+        },
+        "about": {
+          "description": "Emcure Pharmaceuticals, based in India, is involved in the development, manufacturing, and global marketing of pharmaceutical products spanning various therapeutic areas. The company has a product portfolio consisting of orals, injectables, and biotherapeutics. Emcure's products reach over 70 countries worldwide. The company operates 13 manufacturing facilities throughout India, equipped to produce pharmaceutical and biopharmaceutical products. These facilities handle dosage forms, including oral solids, oral liquids, and injectables—both liposomal and lyophilised. They manufacture biotherapeutics and complex active pharmaceutical ingredients (APIs), such as chiral molecules, iron molecules, and cytotoxic products.",
+          "foundedIn": 1981,
+          "managingDirector": "Mr. Satish Ramanlal Mehta",
+          "parentOrganisation": "Emcure Pharmaceuticals Ltd"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Bansal Wire Inds IPO",
+        "company": "Bansal Wire Industries Ltd",
+        "image": "../assets/bansal.svg",
+        "details": {
+          "biddingDates": "30 Jun '24 - 4 Jul '24",
+          "minInvestment": "14094",
+          "lotSizes": 58,
+          "priceRange": "₹234 - ₹256",
+          "issueSize": "745.00Cr"
+        },
+        "about": {
+          "description": "Bansal Wire Industries Limited is a stainless steel wire manufacturing company. The company serves sectors like automotive, general engineering, infrastructure, hardware, consumer durables, power and transmission, agriculture, and auto replacement. Its products are marketed under the brand name 'BANSAL.' Bansal Wire operates across three primary segments: high carbon steel wire, mild steel wire (low carbon steel wire), and stainless steel wire.",
+          "foundedIn": 1985,
+          "managingDirector": "Mr. Pranav Bansal",
+          "parentOrganisation": "Bansal Wire Industries Ltd"
+        }
+      }
+    ],
+    "closedIpo": [
+      {
+        "id": 1,
+        "name": "Akiko Global IPO",
+        "company": "Akiko Global Services Ltd",
+        "image": "../assets/akiko.svg",
+        "details": {
+          "biddingDates": "25 Jun '24 - 27 Jun '24",
+          "minInvestment": "116800",
+          "lotSizes": 1600,
+          "priceRange": "₹73 - ₹77",
+          "issueSize": "23.11Cr"
+        },
+        "about": {
+          "description": "Akiko Global Services Ltd (The Money Fair) is a channel partner for banks and non-banking financial companies (NBFCs) in India for the distribution and sale of financial products such as credit cards and loans. This six-year-old company uses a Customer Relationship Management (CRM) system to conduct its day-to-day operations. All leads are passed through and monitored within the CRM system. According to the company, its unique selling point (USP) is its comprehensive range of products, multifaceted customer acquisition model, personalised customer engagement, and expansive customer database.",
+          "foundedIn": 2018,
+          "managingDirector": "Ms. Priyanka Dutta",
+          "parentOrganisation": "Akiko Global Services Ltd"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Divine Power IPO",
+        "company": "Divine Power Energy Ltd",
+        "image": "../assets/divine.svg",
+        "details": {
+          "biddingDates": "25 Jun '24 - 27 Jun '24",
+          "minInvestment": "108000",
+          "lotSizes": 3000,
+          "priceRange": "₹36 - ₹77",
+          "issueSize": "27.76Cr"
+        },
+        "about": {
+          "description": "Divine Power Energy Limited is a manufacturer of bare copper/aluminium wire, bare copper/aluminium strips, winding copper/aluminium wire, and winding copper/aluminium strips. These winding wires and strips are produced by annealing and insulating them, and then covering them with materials such as paper, cotton, and fibreglass. These are then sold to power distribution companies and transformer manufacturers. Recently, Divine Power Energy began producing wires and strips with fibreglass coverings, which are used in making electromagnetic coils for lifting magnets that handle heavy loads like containers and machinery. The company supplies these fibreglass-covered wires and strips to markets in Punjab, Bengaluru, and Ahmedabad. To meet customer demand, Divine Power Energy has also started trading in super-enamelled wires and strips.",
+          "foundedIn": 2001,
+          "managingDirector": "Mr. Rajesh Giri",
+          "parentOrganisation": "Divine Power Energy Ltd"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Petro Carbon IPO",
+        "company": "Petro Carbon & Chemicals Ltd",
+        "image": "../assets/petro.svg",
+        "details": {
+          "biddingDates": "25 Jun '24 - 27 Jun '24",
+          "minInvestment": "129600",
+          "lotSizes": 800,
+          "priceRange": "₹162 - ₹171",
+          "issueSize": "113.16Cr"
+        },
+        "about": {
+          "description": "Petro Carbon and Chemicals Limited ('PCCL') is a ATHA Group (the 'Group') Company engaged in the business of manufacturing and marketing of Calcined Petroleum Coke ('CPC') in the carbon industry. Atha Group is a multi- product, multi-technology, multi-location business conglomerate. It is a 70 year old diversified Indian business house headquartered in Kolkata. The Company was founded by Mr. Kishor Kumar Atha in the year 1957 in Odisha as a Mining and Minerals company. Since the last decade, the group has been focusing towards its growth strategy of business diversification, forward and backward integrations and acquisition of projects, which has significantly helped the group maintain consistency in performance and growth. PCCL's business model is fundamentally a B2B model wherein we majorly supply our end product CPC, to the renowned, aluminum manufacturing government companies, graphite electrodes and titanium dioxide manufacturers as well as other users in the metallurgical, chemical industries and other steel manufacturing companies. In 2018, our company was honoured with the prestigious NALCO VIKRETA UTKARSH PURASKAR, recognizing us as the top supplier among all the suppliers of POL (Petroleum, Oil, and Lubricants) by the National Aluminium Company Limited.",
+          "foundedIn": 2001,
+          "managingDirector": "Mr. Rajesh Giri",
+          "parentOrganisation": "Divine Power Energy Ltd"
+        }
+      }
+    ],
+    "upcomingIpo": [
+      {
+        "id": 1,
+        "name": "Ambey Laboratories IPO",
+        "company": "Ambey Laboratories Ltd",
+        "image": "../assets/ambey.svg",
+        "details": {
+          "biddingDates": "4 Jul '24 - 8 Jul '24",
+          "minInvestment": "130000",
+          "lotSizes": 2000,
+          "priceRange": "₹65 - ₹68",
+          "issueSize": "44.16Cr"
+        },
+        "about": {
+          "description": "Ambey Laboratories is a producer of agrochemical products aimed at crop protection, with a focus on producing '2, 4-D base chemicals'. The company's manufacturing processes use technologies, such as Programmable Logic Controllers (PLC) and Supervisory Control Systems.Currently, Ambey Laboratories’ product portfolio includes 2,4-D Acid 98% TC, 2,4-D Sodium 95% SP, 2,4-D Amine in various concentrations, 2,4-D Ethyl Hexyl Ester 96% TC, 2,4-D Ethyl Ester 96% TC, and several formulations of Chlorpyriphos, Thiamethoxam, Pretilachlor, Metribuzin, Hexaconazole, and Metalaxyl. These products are manufactured for their clients, including corporations such as Aromatic Rasayan Private Limited, JR Jindal Infraprojects Private Limited, and SC Formulator Co. Ltd.",
+          "foundedIn": 1985,
+          "managingDirector": "Mr. Arpit Gupta",
+          "parentOrganisation": "Ambey Laboratories Ltd"
+        }
+      },
+      {
+        "id": 2,
+        "name": "FabIndia IPO",
+        "company": "FabIndia Ltd.",
+        "image": "../assets/fabindia.webp",
+        "details": {
+          "biddingDates": "To be announced",
+          "minInvestment": "--",
+          "lotSizes": "--",
+          "priceRange": "--",
+          "issueSize": "4000.00Cr"
+        },
+        "about": {
+          "description": "Fabindia is an Indian chain store retailing garments, furnishings, fabrics, and ethnic products handmade by craftspeople across rural India. Fabindia is a legacy brand focusing on handcrafted, indigenous products. The company has established a brand built on artisanal heritage and tradition, inherited across various product categories. Fabindia links around 50,000 craft-based rural producers to modern urban markets, thereby creating a base for skilled, sustainable rural employment, and preserving India's traditional handicrafts in the process.",
+          "foundedIn": 1976,
+          "managingDirector": "Viney Singh",
+          "parentOrganisation": "FabIndia Ltd."
+        }
+      },
+      {
+        "id": 3,
+        "name": "Ola Electric IPO",
+        "company": "OLA Electric",
+        "image": "../assets/ola.webp",
+        "details": {
+          "biddingDates": "To be announced",
+          "minInvestment": "--",
+          "lotSizes": "--",
+          "priceRange": "--",
+          "issueSize": "4000.00Cr"
+        },
+        "about": {
+          "description": "OLA Electric manufactures electric vehicles (EVs) and core EV components in India. The company develops comprehensive technology and manufacturing capabilities for EVs and EV components, including battery packs, motors, and vehicle frames at the Ola Futurefactory. Its core business revolves around seizing opportunities arising from the demand for EVs in India. They also aim to explore potential exports of their EVs in selected international markets. Since its initial product announcement in August 2021, OLA Electric has introduced a total of four products and revealed plans for six additional ones. The Ola S1 Pro, their first EV model, began deliveries in December 2021, followed by subsequent models such as the Ola S1, Ola S1 Air, and Ola S1 X+.The company also announced new EV scooter models, Ola S1 X (2 kWh) and Ola S1 X (3 kWh), along with a lineup of motorcycles named Diamondhead, Adventure, Roadster, and Cruiser, on August 15, 2023. Deliveries for these new models are planned in Fiscal year 2025 and 2026. Ola Electric is also setting up its EV hub in Krishnagiri and Dharmapuri districts in Tamil Nadu, India, which includes the Ola Futurefactory, Ola Gigafactory, and co-located suppliers in Krishnagiri district.",
+          "foundedIn": 2017,
+          "managingDirector": "Mr. Bhavish Aggarwal",
+          "parentOrganisation": "OLA Electric"
+        }
+      }
+    ]
+  }
+}
