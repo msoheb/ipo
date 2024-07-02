@@ -15,7 +15,7 @@ export default function IpoList({ list, type }) {
           <div key={ipo.id}>
             <Link href={`${type}/${ipo.id}`}>
               <div className="flex w-full items-center gap-4 border-b last:border-b-0 px-4 py-5">
-                <div className="flex basis-2/5 items-center gap-3">
+                <div className="flex md:basis-2/5 items-center gap-3">
                   <Image
                     className="rounded-full border"
                     src={ipo.image}

@@ -8,4 +8,4 @@
 - [x] - Routing
 - [x] - Completing components
 - [x] - Clean Up
-- [ ] - Deployment
+- [x] - Deployment

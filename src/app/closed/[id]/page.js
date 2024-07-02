@@ -7,7 +7,7 @@ export default function Page({ params: { id } }) {
   );
 
   return (
-    <main className="container mx-auto max-w-screen-lg">
+    <main className="container mx-auto max-w-screen-lg px-4">
       <IpoDetails details={details} />
     </main>
   );

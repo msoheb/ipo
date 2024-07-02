@@ -5,7 +5,7 @@ export default function Page({ params: { id } }) {
   const details = data.categories.openIpo.find((ipo) => ipo.id === Number(id));
 
   return (
-    <main className="container mx-auto max-w-screen-lg">
+    <main className="container mx-auto max-w-screen-lg px-4">
       <IpoDetails details={details} />
     </main>
   );
